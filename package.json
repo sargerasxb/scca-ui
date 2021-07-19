@@ -1,0 +1,12 @@
+{
+  "name": "scca-ui",
+  "version": "1.0.0",
+  "description": "scca-ui",
+  "main": "index.js",
+  "repository": "https://github.com/sargerasxb/scca-ui.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
